@@ -1,0 +1,20 @@
+{
+  "name": "roughdraft",
+  "version": "1.0.0",
+  "description": "roughdraft",
+  "main": "index.js",
+  "author": "david",
+  "repository": "",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "latest",
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
