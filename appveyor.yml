@@ -3,7 +3,6 @@ pull_requests:
   do_not_increment_build_number: true
 image: Ubuntu2004
 platform: x64
-environment:
 before_build:
 - sh: npm install && node index.js
 build:
